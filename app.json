@@ -9,13 +9,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "PATRON-MD~12a40874091b2433bc67f89eb27b9a73"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "PATRON-MD"
+      "value": "sey"
     }, 
       
     "PREFIX": {
@@ -27,7 +27,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -78,20 +78,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY PATRON-MD 🚹*"
+      "value": "*SEEN by sey*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴘᴀᴛʀᴏɴTᴇᴄʜＸ 🚹"
+      "value": "sey 🚹"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "234310344XXXX"
+      "value": "233538911895"
 
     }, 
     
